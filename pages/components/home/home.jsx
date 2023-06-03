@@ -14,7 +14,7 @@ export default function home() {
         Entre de cabeça nessa oportunidade que você ganha agora! Deixe o seu
         email com a gente!
       </p>
-      <TextField id="outlined-basic" label="Email" variant="outlined" />
+      <TextField className="outlined-basic" id="outlined-basic" label="Email" variant="outlined" />
     </div>
       <Box sx={{ width: { xs: "100%", sm: "390px" } }}>
         <Image
